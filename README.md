@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">Just another Web Developer. But Better.</h3>
+<h3 align="center">Learn. Adapt. Overcome</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
