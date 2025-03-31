@@ -9,8 +9,8 @@
 ---
 
 <h3 align="left">⚡ About Me:</h3>
-- 💻 Passionate about Full-Stack Development & Blockchain.  
-- 🎯 Always learning new technologies to stay ahead in the game.  
+- 💻 Passionate about Full-Stack Development.<br>
+- 🎯 Always learning new technologies to stay ahead in the game.<br>  
 - 🧠 Currently exploring AI, Web3, and Microservices Architecture.
 
 ---
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
 ### 🧩 Backend:
