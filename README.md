@@ -2,6 +2,12 @@
 <h3 align="center">Learn. Adapt. Overcome.</h3>
 
 <p align="center">
+  <a href="https://kushals-portfolio-v1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE%20SITE-Visit%20Portfolio-FF5757?style=for-the-badge" alt="Live Site" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/senseiiesnes"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/kushal-jha-9543a322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
